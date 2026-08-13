@@ -1,5 +1,6 @@
-**CCNA Day 1: 6/26/26
-**
+**CCNA Day 1: 6/26/26**
+
+
 **Computer Network** - A computer is a digital telecommunications network which allows nodes to share resources.
 
 **Node Examples** - Router, Switch, Firewall, Server (referred to as endhost/endpoint), Client (referred to as endhost/endpoint). 

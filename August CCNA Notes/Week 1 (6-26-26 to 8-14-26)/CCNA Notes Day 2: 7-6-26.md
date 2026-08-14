@@ -83,7 +83,7 @@ Distance Capabilities: Single-mode can span from 2 km to over 100 km without sig
 
 Single is good for really long distances and high speeds within longer distances. Multimode is good for short distances, cheaper, and high speeds in shorter distances. 
 
-Comparison between UTP vs Fiber:
+**Comparison between UTP vs Fiber:**
 
 <img width="1261" height="665" alt="Screenshot 2026-07-23 120337" src="https://github.com/user-attachments/assets/0f40151b-dc98-44ed-9dfa-a0d9751922cc" />
 
